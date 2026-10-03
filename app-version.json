@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.26",
-  "publishedAt": "2026-10-03T19:05:30.052Z",
+  "release": "3.27",
+  "publishedAt": "2026-10-03T20:21:40.871Z",
   "ios": {
-    "build": 61
+    "build": 62
   },
   "android": {
-    "build": 48
+    "build": 49
   },
   "web": {
-    "entry": "entry-f629aa9b86f21d5b7de93cf291ccf5cc.js"
+    "entry": "entry-23e83cd06bbd0057ef6f869f4ae96130.js"
   },
   "notes": {
-    "en": "Photos load as small previews: chats open faster and use far less data. A slow connection no longer shows Offline, and a stalled photo send retries itself. Projects show only their names, with files behind ⋯; tapping a name shows that project's conversation, and Show all brings the chat back. Downloaded photos go to your photo library.",
-    "ko": "사진이 작은 미리보기로 먼저 열려 채팅이 더 빨리 열리고 데이터를 훨씬 적게 씁니다. 연결이 느려도 '오프라인'으로 표시되지 않고, 멈춘 사진 전송은 자동으로 다시 시도합니다. 프로젝트는 이름만 보이고 파일은 ⋯ 안에 있으며, 이름을 누르면 그 프로젝트의 대화만 보이고 '전체 보기'로 돌아갑니다. 내려받은 사진은 사진 앱에 저장됩니다.",
-    "es": "Las fotos se cargan como vistas previas pequeñas: los chats se abren antes y gastan muchos menos datos. Una conexión lenta ya no muestra Sin conexión, y una foto atascada se reenvía sola. Los proyectos muestran solo su nombre, con los archivos tras ⋯; al tocar un nombre se ve la conversación de ese proyecto, y Ver todo devuelve el chat. Las fotos descargadas van a tu fototeca."
+    "en": "Every message shows the time it was sent again, with Today, Yesterday or the date between days. Settings › About shows your version of Gist. When a newer version comes out, a card at the top of Chats takes you to it; Later reminds you tomorrow.",
+    "ko": "모든 메시지에 보낸 시간이 다시 표시되고, 날짜가 바뀌는 곳에 오늘·어제·날짜가 보입니다. 설정 › 앱 정보에서 Gist 버전을 볼 수 있습니다. 새 버전이 나오면 채팅 화면 위의 카드에서 바로 업데이트할 수 있고, '나중에'를 누르면 내일 다시 알려 드립니다.",
+    "es": "Cada mensaje vuelve a mostrar la hora en que se envió, con Hoy, Ayer o la fecha entre días. Configuración › Acerca de muestra tu versión de Gist. Cuando sale una versión nueva, una tarjeta arriba en Chats te lleva a ella; Más tarde te lo recuerda mañana."
   }
 }
