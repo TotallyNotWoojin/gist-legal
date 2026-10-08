@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.27",
-  "publishedAt": "2026-10-03T20:21:40.871Z",
+  "release": "3.28",
+  "publishedAt": "2026-10-08T04:25:32.693Z",
   "ios": {
-    "build": 62
+    "build": 63
   },
   "android": {
-    "build": 49
+    "build": 50
   },
   "web": {
-    "entry": "entry-23e83cd06bbd0057ef6f869f4ae96130.js"
+    "entry": "entry-3f71482692e628b4ec9d69c62bbb39b1.js"
   },
   "notes": {
-    "en": "Every message shows the time it was sent again, with Today, Yesterday or the date between days. Settings › About shows your version of Gist. When a newer version comes out, a card at the top of Chats takes you to it; Later reminds you tomorrow.",
-    "ko": "모든 메시지에 보낸 시간이 다시 표시되고, 날짜가 바뀌는 곳에 오늘·어제·날짜가 보입니다. 설정 › 앱 정보에서 Gist 버전을 볼 수 있습니다. 새 버전이 나오면 채팅 화면 위의 카드에서 바로 업데이트할 수 있고, '나중에'를 누르면 내일 다시 알려 드립니다.",
-    "es": "Cada mensaje vuelve a mostrar la hora en que se envió, con Hoy, Ayer o la fecha entre días. Configuración › Acerca de muestra tu versión de Gist. Cuando sale una versión nueva, una tarjeta arriba en Chats te lleva a ella; Más tarde te lo recuerda mañana."
+    "en": "Summaries are split into topics with short lines, bold dates, amounts and names, and a Key status section. Screenshots and PDFs in the chat are read too. Each project shows its own unread number. Reading a chat clears its notifications and the number on the app icon. Photo notifications say what was sent, and switching apps for a moment no longer disconnects Gist.",
+    "ko": "요약이 주제별로 나뉘어 짧은 줄로 정리되고, 날짜·금액·이름은 굵게, 맨 위에는 핵심 현황이 나옵니다. 채팅의 스크린샷과 PDF도 읽습니다. 프로젝트마다 안 읽은 메시지 수가 표시됩니다. 채팅을 읽으면 알림과 앱 아이콘 숫자가 사라집니다. 사진 알림에 보낸 내용이 표시되고, 잠깐 다른 앱으로 전환해도 연결이 끊기지 않습니다.",
+    "es": "Los resúmenes se dividen en temas con líneas cortas, fechas, montos y nombres en negrita, y una Situación clave. También se leen las capturas y los PDF del chat. Cada proyecto muestra sus mensajes sin leer. Leer un chat borra sus notificaciones y el número del ícono. Las notificaciones de fotos dicen qué se envió, y cambiar de app un momento ya no desconecta Gist."
   }
 }
