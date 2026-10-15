@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.28",
-  "publishedAt": "2026-10-08T04:25:32.693Z",
+  "release": "3.29",
+  "publishedAt": "2026-10-15T20:41:44.425Z",
   "ios": {
-    "build": 63
+    "build": 64
   },
   "android": {
-    "build": 50
+    "build": 51
   },
   "web": {
-    "entry": "entry-3f71482692e628b4ec9d69c62bbb39b1.js"
+    "entry": "entry-12c088d355a824fbb1adbe782837a30d.js"
   },
   "notes": {
-    "en": "Summaries are split into topics with short lines, bold dates, amounts and names, and a Key status section. Screenshots and PDFs in the chat are read too. Each project shows its own unread number. Reading a chat clears its notifications and the number on the app icon. Photo notifications say what was sent, and switching apps for a moment no longer disconnects Gist.",
-    "ko": "요약이 주제별로 나뉘어 짧은 줄로 정리되고, 날짜·금액·이름은 굵게, 맨 위에는 핵심 현황이 나옵니다. 채팅의 스크린샷과 PDF도 읽습니다. 프로젝트마다 안 읽은 메시지 수가 표시됩니다. 채팅을 읽으면 알림과 앱 아이콘 숫자가 사라집니다. 사진 알림에 보낸 내용이 표시되고, 잠깐 다른 앱으로 전환해도 연결이 끊기지 않습니다.",
-    "es": "Los resúmenes se dividen en temas con líneas cortas, fechas, montos y nombres en negrita, y una Situación clave. También se leen las capturas y los PDF del chat. Cada proyecto muestra sus mensajes sin leer. Leer un chat borra sus notificaciones y el número del ícono. Las notificaciones de fotos dicen qué se envió, y cambiar de app un momento ya no desconecta Gist."
+    "en": "The chat list shows each chat's projects with their own unread numbers; tap one to open it. New chats start with project 1, General. Coming back to an open chat marks it read, so its number goes away. Translations arrive in a few seconds.",
+    "ko": "채팅 목록에서 채팅마다 프로젝트와 프로젝트별 안 읽은 수가 보이고, 누르면 바로 열립니다. 새 채팅방은 1번 프로젝트 'General'로 시작합니다. 열린 채팅으로 돌아오면 읽음 처리되어 숫자가 사라집니다. 번역이 몇 초 안에 도착합니다.",
+    "es": "La lista de chats muestra los proyectos de cada chat con sus mensajes sin leer; toca uno para abrirlo. Los chats nuevos empiezan con el proyecto 1, General. Al volver a un chat abierto se marca como leído y su número desaparece. Las traducciones llegan en pocos segundos."
   }
 }
