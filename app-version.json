@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "release": "3.29",
-  "publishedAt": "2026-10-15T20:41:44.425Z",
+  "publishedAt": "2026-10-15T22:02:24.809Z",
   "ios": {
     "build": 64
   },
@@ -9,7 +9,7 @@
     "build": 51
   },
   "web": {
-    "entry": "entry-12c088d355a824fbb1adbe782837a30d.js"
+    "entry": "entry-9a7565400861be989e0ca7bc2e39bed5.js"
   },
   "notes": {
     "en": "The chat list shows each chat's projects with their own unread numbers; tap one to open it. New chats start with project 1, General. Coming back to an open chat marks it read, so its number goes away. Translations arrive in a few seconds.",
