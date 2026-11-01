@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.29",
-  "publishedAt": "2026-10-15T22:02:24.809Z",
+  "release": "3.30",
+  "publishedAt": "2026-11-01T12:56:00.747Z",
   "ios": {
-    "build": 64
+    "build": 65
   },
   "android": {
-    "build": 51
+    "build": 52
   },
   "web": {
-    "entry": "entry-9a7565400861be989e0ca7bc2e39bed5.js"
+    "entry": "entry-701e82c8b8e4d9598055c37325c33f33.js"
   },
   "notes": {
-    "en": "The chat list shows each chat's projects with their own unread numbers; tap one to open it. New chats start with project 1, General. Coming back to an open chat marks it read, so its number goes away. Translations arrive in a few seconds.",
-    "ko": "채팅 목록에서 채팅마다 프로젝트와 프로젝트별 안 읽은 수가 보이고, 누르면 바로 열립니다. 새 채팅방은 1번 프로젝트 'General'로 시작합니다. 열린 채팅으로 돌아오면 읽음 처리되어 숫자가 사라집니다. 번역이 몇 초 안에 도착합니다.",
-    "es": "La lista de chats muestra los proyectos de cada chat con sus mensajes sin leer; toca uno para abrirlo. Los chats nuevos empiezan con el proyecto 1, General. Al volver a un chat abierto se marca como leído y su número desaparece. Las traducciones llegan en pocos segundos."
+    "en": "Pressing a project shows only its conversation. Files you download go into the project's Downloads for everyone. Your nicknames show everywhere, and contacts can be deleted without blocking. Summaries come in the language you choose, with dates in order and photos at the end, and My summaries keeps them all. Translations use the project name. Photos keep sending after a dropped connection.",
+    "ko": "프로젝트를 누르면 그 대화만 보입니다. 다운로드한 파일은 프로젝트의 '다운로드 파일'에 모두가 볼 수 있게 보관됩니다. 별명이 어디서나 보이고, 연락처를 차단 없이 삭제할 수 있습니다. 요약은 고른 언어로, 날짜 순서대로, 사진을 끝에 넣어 만들어지고 '내 요약 파일'에 모두 남습니다. 번역이 프로젝트 이름을 참고합니다. 연결이 끊겨도 사진은 다시 보내집니다.",
+    "es": "Al tocar un proyecto se ve solo su conversación. Los archivos que descargas se guardan en Descargas del proyecto para todos. Tus apodos se ven en todas partes y puedes eliminar contactos sin bloquearlos. Los resúmenes salen en el idioma que elijas, con fechas en orden y fotos al final, y Mis resúmenes los guarda todos. Las traducciones usan el nombre del proyecto. Las fotos se siguen enviando sin conexión."
   }
 }
