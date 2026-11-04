@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.30",
-  "publishedAt": "2026-11-01T12:56:00.747Z",
+  "release": "3.31",
+  "publishedAt": "2026-11-04T18:04:19.375Z",
   "ios": {
-    "build": 65
+    "build": 66
   },
   "android": {
-    "build": 52
+    "build": 53
   },
   "web": {
-    "entry": "entry-701e82c8b8e4d9598055c37325c33f33.js"
+    "entry": "entry-a01f4ef4ac9258297c5adb33396b7832.js"
   },
   "notes": {
-    "en": "Pressing a project shows only its conversation. Files you download go into the project's Downloads for everyone. Your nicknames show everywhere, and contacts can be deleted without blocking. Summaries come in the language you choose, with dates in order and photos at the end, and My summaries keeps them all. Translations use the project name. Photos keep sending after a dropped connection.",
-    "ko": "프로젝트를 누르면 그 대화만 보입니다. 다운로드한 파일은 프로젝트의 '다운로드 파일'에 모두가 볼 수 있게 보관됩니다. 별명이 어디서나 보이고, 연락처를 차단 없이 삭제할 수 있습니다. 요약은 고른 언어로, 날짜 순서대로, 사진을 끝에 넣어 만들어지고 '내 요약 파일'에 모두 남습니다. 번역이 프로젝트 이름을 참고합니다. 연결이 끊겨도 사진은 다시 보내집니다.",
-    "es": "Al tocar un proyecto se ve solo su conversación. Los archivos que descargas se guardan en Descargas del proyecto para todos. Tus apodos se ven en todas partes y puedes eliminar contactos sin bloquearlos. Los resúmenes salen en el idioma que elijas, con fechas en orden y fotos al final, y Mis resúmenes los guarda todos. Las traducciones usan el nombre del proyecto. Las fotos se siguen enviando sin conexión."
+    "en": "Projects work like channels: a chat with projects shows one project at a time, General holds the rest, and the bar above the message box shows new messages waiting in other projects. Replies stay with the message they answer. Find in this chat lists every match under its project, and Ask AI answers questions about the chat. Summaries cover only the project you are in.",
+    "ko": "프로젝트가 채널처럼 바뀌었습니다. 프로젝트가 있는 채팅은 한 번에 한 프로젝트만 보여 주고, 나머지는 General에 있으며, 입력창 위 막대에 다른 프로젝트의 새 메시지가 표시됩니다. 답장은 원래 메시지의 프로젝트로 갑니다. '이 채팅에서 찾기'는 찾은 내용을 프로젝트별로 보여 주고, 'AI에게 묻기'로 채팅에 대한 질문에 답을 받을 수 있습니다. 요약은 지금 보는 프로젝트만 정리합니다.",
+    "es": "Los proyectos funcionan como canales: un chat con proyectos muestra un proyecto a la vez, General guarda el resto y la barra encima del cuadro de mensaje muestra los mensajes nuevos en otros proyectos. Las respuestas se quedan con el mensaje que responden. Buscar en este chat muestra cada resultado bajo su proyecto, y la IA responde preguntas sobre el chat. Los resúmenes cubren solo el proyecto actual."
   }
 }
