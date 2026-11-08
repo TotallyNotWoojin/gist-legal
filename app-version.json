@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.33",
-  "publishedAt": "2026-11-08T02:06:18.103Z",
+  "release": "3.34",
+  "publishedAt": "2026-11-08T09:34:13.489Z",
   "ios": {
-    "build": 68
+    "build": 69
   },
   "android": {
-    "build": 55
+    "build": 56
   },
   "web": {
-    "entry": "entry-f70f120e28571aa673477c34cfd26e87.js"
+    "entry": "entry-f9d4b5e0b4e19412eb8f7d77bb9b6263.js"
   },
   "notes": {
-    "en": "Summary now has a way back: My summaries and the project a summary was saved in show \"Back to Summary\" at the top left, returning to the summary as you left it. The phone's back button does the same; the X still closes everything.",
-    "ko": "요약 화면에서 '내 요약 파일'이나 저장된 프로젝트로 간 다음, 왼쪽 위 '요약으로 돌아가기'로 보던 요약 화면에 그대로 돌아갈 수 있습니다. 휴대폰의 뒤로 버튼도 똑같이 동작하고, X는 전부 닫습니다.",
-    "es": "El resumen ahora tiene cómo volver: Mis resúmenes y el proyecto donde se guardó un resumen muestran \"Volver al resumen\" arriba a la izquierda y regresan al resumen como lo dejaste. El botón de atrás del teléfono hace lo mismo; la X sigue cerrando todo."
+    "en": "The way back from My summaries and the project to the summary is now a green U-turn arrow just left of the X, with no words on it. The phone's back button does the same; the X still closes everything.",
+    "ko": "'내 요약 파일'과 프로젝트에서 요약으로 돌아가는 버튼이 이제 X 바로 왼쪽의 초록색 돌아가기 화살표입니다. 글자는 없습니다. 휴대폰의 뒤로 버튼도 똑같이 동작하고, X는 전부 닫습니다.",
+    "es": "Para volver de Mis resúmenes y del proyecto al resumen ahora hay una flecha verde de retorno justo a la izquierda de la X, sin palabras. El botón de atrás del teléfono hace lo mismo; la X sigue cerrando todo."
   }
 }
