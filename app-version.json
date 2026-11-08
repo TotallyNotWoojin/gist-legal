@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.34",
-  "publishedAt": "2026-11-08T09:34:13.489Z",
+  "release": "3.35",
+  "publishedAt": "2026-11-08T12:50:17.783Z",
   "ios": {
-    "build": 69
+    "build": 72
   },
   "android": {
-    "build": 56
+    "build": 57
   },
   "web": {
-    "entry": "entry-f9d4b5e0b4e19412eb8f7d77bb9b6263.js"
+    "entry": "entry-d207bb6724d5415dde8a568fd9140ece.js"
   },
   "notes": {
-    "en": "The way back from My summaries and the project to the summary is now a green U-turn arrow just left of the X, with no words on it. The phone's back button does the same; the X still closes everything.",
-    "ko": "'내 요약 파일'과 프로젝트에서 요약으로 돌아가는 버튼이 이제 X 바로 왼쪽의 초록색 돌아가기 화살표입니다. 글자는 없습니다. 휴대폰의 뒤로 버튼도 똑같이 동작하고, X는 전부 닫습니다.",
-    "es": "Para volver de Mis resúmenes y del proyecto al resumen ahora hay una flecha verde de retorno justo a la izquierda de la X, sin palabras. El botón de atrás del teléfono hace lo mismo; la X sigue cerrando todo."
+    "en": "Copy image on a photo now always answers within 15 seconds; a chat opened on a poor connection shows its project once the connection is back; reporting a person, a message or a group works again.",
+    "ko": "사진의 '이미지 복사'가 15초 안에 항상 결과를 알려 주고, 연결이 나쁠 때 연 대화도 연결이 돌아오면 프로젝트가 나타나며, 사람·메시지·그룹 신고가 다시 됩니다.",
+    "es": "Copiar imagen ahora siempre responde en 15 segundos; un chat abierto con mala conexión muestra su proyecto al volver la conexión; denunciar a una persona, un mensaje o un grupo vuelve a funcionar."
   }
 }
