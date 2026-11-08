@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.32",
-  "publishedAt": "2026-11-07T17:21:41.875Z",
+  "release": "3.33",
+  "publishedAt": "2026-11-08T02:06:18.103Z",
   "ios": {
-    "build": 67
+    "build": 68
   },
   "android": {
-    "build": 54
+    "build": 55
   },
   "web": {
-    "entry": "entry-89c44ad40151170cefb0a10cbabab51e.js"
+    "entry": "entry-f70f120e28571aa673477c34cfd26e87.js"
   },
   "notes": {
-    "en": "A chat with projects now shows the project's name in large letters at the top of the chat as well as above the message box; tap either to go to another project. On a phone the bar says \"Other projects\" with the number of new messages there. The web app updates itself when its page is out of sight or idle, never while you type. A fault on our side no longer signs anyone out.",
-    "ko": "프로젝트가 있는 채팅은 이제 채팅 위쪽과 입력창 위 막대에 프로젝트 이름을 크게 보여 줍니다. 둘 중 어느 쪽을 눌러도 다른 프로젝트로 갈 수 있습니다. 휴대폰에서는 막대에 '다른 프로젝트'와 새 메시지 수가 표시됩니다. 웹 앱은 화면을 보고 있지 않거나 쓰지 않을 때 스스로 새 버전으로 바뀌고, 글을 쓰는 중에는 바뀌지 않습니다. 서버 쪽 문제로 로그아웃되는 일이 없어졌습니다.",
-    "es": "Un chat con proyectos ahora muestra el nombre del proyecto en letras grandes arriba del chat y encima del cuadro de mensaje; toca cualquiera para ir a otro proyecto. En el teléfono la barra dice \"Otros proyectos\" con el número de mensajes nuevos. La app web se actualiza sola cuando su página no está a la vista o sin uso, nunca mientras escribes. Una falla de nuestro lado ya no cierra la sesión de nadie."
+    "en": "Summary now has a way back: My summaries and the project a summary was saved in show \"Back to Summary\" at the top left, returning to the summary as you left it. The phone's back button does the same; the X still closes everything.",
+    "ko": "요약 화면에서 '내 요약 파일'이나 저장된 프로젝트로 간 다음, 왼쪽 위 '요약으로 돌아가기'로 보던 요약 화면에 그대로 돌아갈 수 있습니다. 휴대폰의 뒤로 버튼도 똑같이 동작하고, X는 전부 닫습니다.",
+    "es": "El resumen ahora tiene cómo volver: Mis resúmenes y el proyecto donde se guardó un resumen muestran \"Volver al resumen\" arriba a la izquierda y regresan al resumen como lo dejaste. El botón de atrás del teléfono hace lo mismo; la X sigue cerrando todo."
   }
 }
