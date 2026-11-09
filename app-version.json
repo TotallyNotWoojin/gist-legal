@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.35",
-  "publishedAt": "2026-11-08T12:50:17.783Z",
+  "release": "3.36",
+  "publishedAt": "2026-11-09T03:26:28.345Z",
   "ios": {
-    "build": 72
+    "build": 73
   },
   "android": {
-    "build": 57
+    "build": 58
   },
   "web": {
-    "entry": "entry-d207bb6724d5415dde8a568fd9140ece.js"
+    "entry": "entry-ae9b8fd324ca48353a0d12359cca97b5.js"
   },
   "notes": {
-    "en": "Copy image on a photo now always answers within 15 seconds; a chat opened on a poor connection shows its project once the connection is back; reporting a person, a message or a group works again.",
-    "ko": "사진의 '이미지 복사'가 15초 안에 항상 결과를 알려 주고, 연결이 나쁠 때 연 대화도 연결이 돌아오면 프로젝트가 나타나며, 사람·메시지·그룹 신고가 다시 됩니다.",
-    "es": "Copiar imagen ahora siempre responde en 15 segundos; un chat abierto con mala conexión muestra su proyecto al volver la conexión; denunciar a una persona, un mensaje o un grupo vuelve a funcionar."
+    "en": "Screen readers now say who is typing; Add people in a group lists the people you know, and two letters of a name find anyone else; adding someone already in the group no longer posts a second line; the offline notice no longer mentions guest workspaces.",
+    "ko": "화면 읽기가 입력 중인 사람을 알려 주고, 그룹의 '사람 추가'에 아는 사람이 먼저 나오며 이름 두 글자로 다른 사람도 찾을 수 있습니다. 이미 있는 사람을 다시 추가해도 줄이 두 번 생기지 않고, 오프라인 안내에서 게스트 작업 공간 이야기가 빠졌습니다.",
+    "es": "Los lectores de pantalla dicen quién está escribiendo; Añadir personas en un grupo muestra a quienes conoces y dos letras de un nombre encuentran a cualquiera; añadir a alguien que ya está en el grupo no publica otra línea; el aviso sin conexión ya no habla de espacios de invitados."
   }
 }
