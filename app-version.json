@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.36",
-  "publishedAt": "2026-11-09T03:26:28.345Z",
+  "release": "3.37",
+  "publishedAt": "2026-11-10T17:12:29.906Z",
   "ios": {
-    "build": 73
+    "build": 74
   },
   "android": {
-    "build": 58
+    "build": 59
   },
   "web": {
-    "entry": "entry-ae9b8fd324ca48353a0d12359cca97b5.js"
+    "entry": "entry-61e5f8c358f42f315df94481306fc6fc.js"
   },
   "notes": {
-    "en": "Screen readers now say who is typing; Add people in a group lists the people you know, and two letters of a name find anyone else; adding someone already in the group no longer posts a second line; the offline notice no longer mentions guest workspaces.",
-    "ko": "화면 읽기가 입력 중인 사람을 알려 주고, 그룹의 '사람 추가'에 아는 사람이 먼저 나오며 이름 두 글자로 다른 사람도 찾을 수 있습니다. 이미 있는 사람을 다시 추가해도 줄이 두 번 생기지 않고, 오프라인 안내에서 게스트 작업 공간 이야기가 빠졌습니다.",
-    "es": "Los lectores de pantalla dicen quién está escribiendo; Añadir personas en un grupo muestra a quienes conoces y dos letras de un nombre encuentran a cualquiera; añadir a alguien que ya está en el grupo no publica otra línea; el aviso sin conexión ya no habla de espacios de invitados."
+    "en": "Add people is now a button at the top of every chat (and first under ⋯): tick the people you know, or type a name. In a one-to-one chat it makes a new group. Opening a chat from a notification no longer leaves a box around the message; the message box no longer stays under the keyboard; Ask AI no longer asks twice on a double tap.",
+    "ko": "모든 대화 위쪽에 '초대' 버튼이 생겼습니다(⋯ 메뉴 맨 위에도 있음). 아는 사람을 체크하거나 이름을 입력하세요. 1:1 대화에서는 새 그룹을 만듭니다. 알림으로 연 메시지에 상자가 남지 않고, 입력창이 키보드에 가려지지 않으며, AI에게 묻기를 두 번 눌러도 한 번만 묻습니다.",
+    "es": "Añadir personas es ahora un botón arriba en cada chat (y lo primero en ⋯): marca a quienes conoces o escribe un nombre. En un chat de dos crea un grupo nuevo. Abrir un chat desde una notificación ya no deja un recuadro en el mensaje; el cuadro de mensaje ya no queda bajo el teclado; la IA ya no pregunta dos veces con un doble toque."
   }
 }
