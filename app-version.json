@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.37",
-  "publishedAt": "2026-11-10T17:12:29.906Z",
+  "release": "3.38",
+  "publishedAt": "2026-11-11T04:54:37.413Z",
   "ios": {
-    "build": 74
+    "build": 75
   },
   "android": {
-    "build": 59
+    "build": 60
   },
   "web": {
-    "entry": "entry-61e5f8c358f42f315df94481306fc6fc.js"
+    "entry": "entry-5569cbf5bb4cf3464b331aa2a918fafe.js"
   },
   "notes": {
-    "en": "Add people is now a button at the top of every chat (and first under ⋯): tick the people you know, or type a name. In a one-to-one chat it makes a new group. Opening a chat from a notification no longer leaves a box around the message; the message box no longer stays under the keyboard; Ask AI no longer asks twice on a double tap.",
-    "ko": "모든 대화 위쪽에 '초대' 버튼이 생겼습니다(⋯ 메뉴 맨 위에도 있음). 아는 사람을 체크하거나 이름을 입력하세요. 1:1 대화에서는 새 그룹을 만듭니다. 알림으로 연 메시지에 상자가 남지 않고, 입력창이 키보드에 가려지지 않으며, AI에게 묻기를 두 번 눌러도 한 번만 묻습니다.",
-    "es": "Añadir personas es ahora un botón arriba en cada chat (y lo primero en ⋯): marca a quienes conoces o escribe un nombre. En un chat de dos crea un grupo nuevo. Abrir un chat desde una notificación ya no deja un recuadro en el mensaje; el cuadro de mensaje ya no queda bajo el teclado; la IA ya no pregunta dos veces con un doble toque."
+    "en": "Add people now brings people into the chat you are in; a one-to-one chat becomes the group and they start in the project you are looking at. Every chat row has Delete: delete for me, leave, hand over and leave, or (owner) delete for everyone. Deleted chats wait in a Deleted chats folder and come back when someone writes. Leaving from the list now always works, and a chat no longer stays at 1 unread.",
+    "ko": "'초대'를 누르면 이제 지금 있는 대화에 함께 들어옵니다. 1:1 대화는 그대로 그룹이 되고, 보고 있던 프로젝트에서 시작합니다. 모든 대화에 '삭제'가 생겼습니다: 나만 삭제, 나가기, 방장 넘기고 나가기, 방장이면 모두에게서 삭제. 삭제한 대화는 '삭제된 채팅' 폴더에 보관되고 새 메시지가 오면 돌아옵니다. 목록에서 나가기가 항상 되고, '읽지 않음 1'이 남지 않습니다.",
+    "es": "Añadir personas ahora las trae al chat en el que estás; un chat de dos se convierte en el grupo y empiezan en el proyecto que ves. Cada chat tiene Eliminar: solo para mí, salir, pasar la propiedad y salir o (si es tuyo) para todos. Los chats eliminados esperan en Chats eliminados y vuelven cuando alguien escribe. Salir desde la lista ya funciona siempre y un chat ya no queda en 1 sin leer."
   }
 }
