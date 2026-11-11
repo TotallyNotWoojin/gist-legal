@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.38",
-  "publishedAt": "2026-11-11T04:54:37.413Z",
+  "release": "3.39",
+  "publishedAt": "2026-11-11T08:12:11.390Z",
   "ios": {
-    "build": 75
+    "build": 76
   },
   "android": {
-    "build": 60
+    "build": 61
   },
   "web": {
-    "entry": "entry-5569cbf5bb4cf3464b331aa2a918fafe.js"
+    "entry": "entry-d9d03d73df215fb6b248307e93a4340a.js"
   },
   "notes": {
-    "en": "Add people now brings people into the chat you are in; a one-to-one chat becomes the group and they start in the project you are looking at. Every chat row has Delete: delete for me, leave, hand over and leave, or (owner) delete for everyone. Deleted chats wait in a Deleted chats folder and come back when someone writes. Leaving from the list now always works, and a chat no longer stays at 1 unread.",
-    "ko": "'초대'를 누르면 이제 지금 있는 대화에 함께 들어옵니다. 1:1 대화는 그대로 그룹이 되고, 보고 있던 프로젝트에서 시작합니다. 모든 대화에 '삭제'가 생겼습니다: 나만 삭제, 나가기, 방장 넘기고 나가기, 방장이면 모두에게서 삭제. 삭제한 대화는 '삭제된 채팅' 폴더에 보관되고 새 메시지가 오면 돌아옵니다. 목록에서 나가기가 항상 되고, '읽지 않음 1'이 남지 않습니다.",
-    "es": "Añadir personas ahora las trae al chat en el que estás; un chat de dos se convierte en el grupo y empiezan en el proyecto que ves. Cada chat tiene Eliminar: solo para mí, salir, pasar la propiedad y salir o (si es tuyo) para todos. Los chats eliminados esperan en Chats eliminados y vuelven cuando alguien escribe. Salir desde la lista ya funciona siempre y un chat ya no queda en 1 sin leer."
+    "en": "When a group was deleted for everyone, or you cannot write in a chat, the note where the message box would be is now larger, wraps, and keeps clear of the screen's edges.",
+    "ko": "모두에게서 삭제된 그룹이나 메시지를 보낼 수 없는 대화에서 입력창 자리의 안내 글이 더 커지고, 여러 줄로 나뉘며, 화면 가장자리에 붙지 않습니다.",
+    "es": "Cuando un grupo se eliminó para todos, o no puedes escribir en un chat, la nota en lugar del cuadro de mensaje ahora es más grande, ocupa varias líneas y no toca los bordes."
   }
 }
