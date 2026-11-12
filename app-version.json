@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.40",
-  "publishedAt": "2026-11-12T02:13:34.150Z",
+  "release": "3.41",
+  "publishedAt": "2026-11-12T06:03:13.968Z",
   "ios": {
-    "build": 77
+    "build": 78
   },
   "android": {
-    "build": 62
+    "build": 63
   },
   "web": {
-    "entry": "entry-62229edbede060c1666afbcb46708136.js"
+    "entry": "entry-f7d1b342a9598cb9e475df544a4d279f.js"
   },
   "notes": {
-    "en": "A group nobody named now shows the nicknames you saved for its people, in your chat list, the chat and notifications, and leaves you out of its title. The letters on a person's picture come from the name you see. Tapping a PDF or document now opens it in your phone's viewer.",
-    "ko": "이름을 정하지 않은 그룹에 내가 저장한 별명이 나옵니다. 대화 목록, 대화 화면, 알림 모두 같고, 그룹 이름에서 내 이름은 빠집니다. 프로필 글자도 내가 보는 이름에서 따옵니다. PDF나 문서 파일을 누르면 바로 열립니다.",
-    "es": "Un grupo sin nombre ahora muestra los apodos que guardaste para sus personas, en tu lista, en el chat y en las notificaciones, y te deja fuera de su título. Las letras de la foto salen del nombre que ves. Tocar un PDF o documento ahora lo abre en el visor del teléfono."
+    "en": "A file you open or send on from a chat keeps its own name; before, a long number came first.",
+    "ko": "대화에서 열거나 보낸 파일이 원래 이름을 그대로 가집니다. 전에는 앞에 긴 숫자가 붙었습니다.",
+    "es": "Un archivo que abres o reenvías desde un chat conserva su propio nombre; antes empezaba con un número largo."
   }
 }
