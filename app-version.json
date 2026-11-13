@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "3.41",
-  "publishedAt": "2026-11-12T06:03:13.968Z",
+  "release": "3.42",
+  "publishedAt": "2026-11-13T04:43:48.531Z",
   "ios": {
-    "build": 78
+    "build": 80
   },
   "android": {
-    "build": 63
+    "build": 64
   },
   "web": {
-    "entry": "entry-f7d1b342a9598cb9e475df544a4d279f.js"
+    "entry": "entry-9e000a74235c51fb6793563ff7d1e206.js"
   },
   "notes": {
-    "en": "A file you open or send on from a chat keeps its own name; before, a long number came first.",
-    "ko": "대화에서 열거나 보낸 파일이 원래 이름을 그대로 가집니다. 전에는 앞에 긴 숫자가 붙었습니다.",
-    "es": "Un archivo que abres o reenvías desde un chat conserva su propio nombre; antes empezaba con un número largo."
+    "en": "Type @ in a group to pick who a message is for. An unsent message stays in its own chat and shows as Draft in the list.",
+    "ko": "그룹에서 @를 입력해 누구에게 하는 말인지 고를 수 있습니다. 보내지 않은 글은 그 대화방에 남고 목록에 '작성 중'으로 보입니다.",
+    "es": "Escribe @ en un grupo para elegir para quién es un mensaje. Un mensaje sin enviar se queda en su chat y aparece como Borrador en la lista."
   }
 }
